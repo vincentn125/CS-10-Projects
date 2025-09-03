@@ -1,0 +1,22 @@
+# Vincent Nguyen
+# 1320229
+
+# Lab 1 Question 4
+# blah blah blah (DELETE THIS)
+# This program reads user input of radius and length of a cylinder, and computes the area of one base
+# and then calculates the volume of a cylinder 
+
+# input/data
+radiusCylinder = float(input("Enter the radius of a cylinder: "))
+lengthCylinder = float(input("Enter the length of a cylinder: "))
+
+# calculations/processing
+baseArea = (radiusCylinder * radiusCylinder) * 3.141
+volume = (baseArea * lengthCylinder)
+
+#output
+print("The base area is", baseArea)
+print("The volume is", volume)
+
+# Test run 1
+#
