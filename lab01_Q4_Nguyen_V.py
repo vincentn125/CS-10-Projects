@@ -28,12 +28,9 @@ print("The volume is", volume)
 #Enter the length of a cylinder: 7
 #The base area is 113.076
 #The volume is 791.5319999999999
-#
 
 # Test run 3
-"""
-Enter the radius of a cylinder: 4
-Enter the length of a cylinder: 21
-The base area is 50.256
-The volume is 1055.376
-"""
+#Enter the radius of a cylinder: 4
+#Enter the length of a cylinder: 21
+#The base area is 50.256
+#The volume is 1055.376
