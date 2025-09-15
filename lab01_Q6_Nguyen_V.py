@@ -11,19 +11,20 @@
 # 1 cup of butter
 # 2.75 cups of flour
 
+# calculation for ingredients per cookie
 sugarAmount = (1.5/48)
 butterAmount = (1.0/48)
 flourAmount = (2.75/48)
 
+# user input
 numOfCookies = int(input("Enter the number of cookies: "))
 
+# calculations
 sugarRequired = sugarAmount * numOfCookies
 butterRequired = (butterAmount * numOfCookies) 
 flourRequired = flourAmount * numOfCookies
 
-
-#print("TEST PRINT")
-#print(format(sugarRequired, ',.2f'))
+# output
 print("To make ", numOfCookies, " cookies, you will need: ")
 print(format(sugarRequired, ',.2f'), " cups of sugar")
 print(format(butterRequired, ',.2f'), " cups of butter")
