@@ -10,3 +10,4 @@ userNumber = int(input("Enter an integer: "))
 firstNumber = userNumber // 1000
 
 firstNumberRemainder = userNumber % 1000
+
