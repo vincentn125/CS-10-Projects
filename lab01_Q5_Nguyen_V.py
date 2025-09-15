@@ -1,16 +1,16 @@
-# Vincent Nguyen
-# 1320229
+# Student Name: Vincent Nguyen
+# ID: 1320229
 
-# Lab 1 Question 5
+# Lab 1, Question 5
 # This program aks the user to enter the projected amount of total sales
 # then displays the profit that will be
 # made from that amount.
 
-# User Input
+# input/data
 totalSales = float(input("Enter the projected total sales: "))
 profitMargin = 0.24 #24% profit margin
 
-# calculation
+# calculations/processing
 totalProfit = (totalSales * profitMargin)
 
 # output
