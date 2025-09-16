@@ -1,7 +1,7 @@
 # Student Name: Vincent Nguyen
 # ID: 1320229
 
-# Lab 1 Question 8
+# Lab 1, Question 8
 # Program calculate the gravitational force (F)
 # and acceleration due to gravity (g) caused by gravitational force exerted by the Earth
 
@@ -22,5 +22,4 @@ print("The resulting value of g is", format(gResult, ',.4f'), "which is close to
 ## Test case 1
 ## Enter a mass in kg: 30
 ## The resulting value of g is 9.8001 which is close to the earth's gravitational force
-##
 

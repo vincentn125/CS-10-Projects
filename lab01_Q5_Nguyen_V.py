@@ -6,17 +6,19 @@
 # then displays the profit that will be
 # made from that amount.
 
+# constants
+profitMargin = 0.24 
+
 # input/data
 totalSales = float(input("Enter the projected total sales: "))
-profitMargin = 0.24 #24% profit margin
 
-# calculations/processing
+# Calculations/Processing
 totalProfit = (totalSales * profitMargin)
 
-# output
+#output
 print("The profit made from this amount:", format(totalProfit, ',.2f'))
 
-## Test case 1
+##Test case 1
 ##Enter the projected total sales: 1250.00
 ##The profit made from this amount: 300.00
 ##

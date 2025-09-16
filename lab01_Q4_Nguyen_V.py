@@ -13,7 +13,7 @@ PI = 3.141
 radiusCylinder = float(input("Enter the radius of a cylinder: "))
 lengthCylinder = float(input("Enter the length of a cylinder: "))
 
-# calculations/processing
+# Calculations/Processing
 baseArea = (radiusCylinder * radiusCylinder) * PI
 volume = (baseArea * lengthCylinder)
 
@@ -21,7 +21,7 @@ volume = (baseArea * lengthCylinder)
 print("The base area is", baseArea)
 print("The volume is", volume)
 
-## Test run 1
+##Test run 1
 ##Enter the radius of a cylinder: 5.5
 ##Enter the length of a cylinder: 12
 ##The base area is 95.01525
