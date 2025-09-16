@@ -6,12 +6,15 @@
 # then calculates the area of one base
 # and volume of a cylinder 
 
+# constants
+PI = 3.141
+
 # input/data
 radiusCylinder = float(input("Enter the radius of a cylinder: "))
 lengthCylinder = float(input("Enter the length of a cylinder: "))
 
 # calculations/processing
-baseArea = (radiusCylinder * radiusCylinder) * 3.141
+baseArea = (radiusCylinder * radiusCylinder) * PI
 volume = (baseArea * lengthCylinder)
 
 #output

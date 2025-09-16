@@ -11,7 +11,7 @@
 # 1 cup of butter
 # 2.75 cups of flour
 
-# calculation for ingredients per cookie
+# constants 
 sugarAmount = (1.5/48)
 butterAmount = (1.0/48)
 flourAmount = (2.75/48)

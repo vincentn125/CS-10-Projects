@@ -14,7 +14,7 @@ secondNumber = (userNumber // 10) % 10
 thirdNumber = (userNumber // 100) % 10
 fourthNumber = (userNumber // 1000)
 
-# output
+# output 
 print(firstNumber)
 print(secondNumber)
 print(thirdNumber)

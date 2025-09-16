@@ -16,15 +16,15 @@ totalProfit = (totalSales * profitMargin)
 # output
 print("The profit made from this amount:", format(totalProfit, ',.2f'))
 
-# TEST CASE 1
-#Enter the projected total sales: 1250.00
-#The profit made from this amount: 300.00
-
-# TEST CASE 2
-#Enter the projected total sales: 1000
-#The profit made from this amount: 240.00
-
-# TEST CASE 3
-#Enter the projected total sales: 8950.23
-#The profit made from this amount: 2,148.06
+## Test case 1
+##Enter the projected total sales: 1250.00
+##The profit made from this amount: 300.00
+##
+## Test case 2
+##Enter the projected total sales: 1000
+##The profit made from this amount: 240.00
+##
+## Test case 3
+##Enter the projected total sales: 8950.23
+##The profit made from this amount: 2,148.06
 
